@@ -123,3 +123,4 @@ footer a {
     font-family: "CrimsonText";
     src: url("assets/fonts/CrimsonText.ttf");
 }
+@media (max-width: 768px) { body { font-size: 14px; } }
